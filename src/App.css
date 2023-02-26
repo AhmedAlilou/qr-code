@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  
+}
+body {
+  background-color: rgb(215, 225, 238);
+  margin-top: 200px;
+}
+
+.card {
+  height: 500px;
+  width: 320px;
+  background-color: white;
+  margin: auto;
+  border-radius: 5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.qr {
+  width: 285px;
+  margin: 15px;
+  border-radius: 5%;
+}
+
+.description {
+  color: rgb(142, 147, 157);
+  margin: 5%;
+}
+
