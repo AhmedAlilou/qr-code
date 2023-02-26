@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/qr-code.github.io/static/css/main.742850bc.css",
-    "main.js": "/qr-code.github.io/static/js/main.87322f66.js",
-    "static/js/787.404e1756.chunk.js": "/qr-code.github.io/static/js/787.404e1756.chunk.js",
-    "index.html": "/qr-code.github.io/index.html",
-    "main.742850bc.css.map": "/qr-code.github.io/static/css/main.742850bc.css.map",
-    "main.87322f66.js.map": "/qr-code.github.io/static/js/main.87322f66.js.map",
-    "787.404e1756.chunk.js.map": "/qr-code.github.io/static/js/787.404e1756.chunk.js.map"
+    "main.css": "/qr-code/static/css/main.742850bc.css",
+    "main.js": "/qr-code/static/js/main.b7521448.js",
+    "static/js/787.404e1756.chunk.js": "/qr-code/static/js/787.404e1756.chunk.js",
+    "index.html": "/qr-code/index.html",
+    "main.742850bc.css.map": "/qr-code/static/css/main.742850bc.css.map",
+    "main.b7521448.js.map": "/qr-code/static/js/main.b7521448.js.map",
+    "787.404e1756.chunk.js.map": "/qr-code/static/js/787.404e1756.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.742850bc.css",
-    "static/js/main.87322f66.js"
+    "static/js/main.b7521448.js"
   ]
 }
